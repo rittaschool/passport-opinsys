@@ -1,0 +1,26 @@
+{
+  "name": "passport-opinsys",
+  "description": "A [opinsys](https://api.opinsys.fi/v3/sso/developers) strategy for [Passport](https://www.npmjs.com/package/passport)",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "njwt": "^1.0.0",
+    "passport-strategy": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rittaschool/passport-opinsys.git"
+  },
+  "keywords": [
+    "opinsys",
+    "passport",
+    "passport-opinsys"
+  ],
+  "author": "raikasdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rittaschool/passport-opinsys/issues"
+  },
+  "homepage": "https://github.com/rittaschool/passport-opinsys#readme"
+}
